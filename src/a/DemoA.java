@@ -22,4 +22,9 @@ public class DemoA {
 	public static void subtract(int a, int b) {
 		System.out.println(a-b);
 
+
+	// This is also GitHub
+	public static void mutiply(int a, int b) {
+		System.out.println(a*b);
+
 }
